@@ -1,13 +1,13 @@
 :root {
     /* primary colors */
     --light-red: hsl(0, 100%, 67%);
-    --light-red-v1: hsl(0, 100%, 67%, 0.1);
+    --light-red-v1: #FFF6F5;
     --Orangey-yellow: hsl(39, 100%, 56%);
-    --Orangey-yellow-v1: hsla(39, 100%, 56%,0.1);
+    --Orangey-yellow-v1: hsla(39, 100%, 56%, 0.096);
     --Green-teal: hsl(166, 100%, 37%);
-    --Green-teal-v1: hsl(166, 100%, 37%, 0.1);
+    --Green-teal-v1:  #F2FBFA;
     --Cobalt-blue: hsl(234, 85%, 45%);
-    --Cobalt-blue-v1: hsl(234, 85%, 45%, 0.1);
+    --Cobalt-blue-v1: #F3F3FD;
 
     /* Gradient colors */
 
